@@ -1,0 +1,30 @@
+{
+    "update":[ 
+        {
+            "string_field_0":"SIT",
+            "string_field_1":"FDMM",
+            "string_field_2":"LOGIX",
+            "string_field_4":"7.12.0"
+        },
+        {
+            "string_field_0":"SIT",
+            "string_field_1":"FDMM",
+            "string_field_2":"EPM",
+            "string_field_4":"7.12.0"
+        },
+        {
+            "string_field_0":"SIT",
+            "string_field_1":"FDMM",
+            "string_field_2":"CONSUMER_PREFERENCES",
+            "string_field_4":"2.6.0"
+        },
+        {
+            "string_field_0":"SIT",
+            "string_field_1":"FDMM",
+            "string_field_2":"COUPONS",
+            "string_field_4":"2.6.0"
+        }
+
+    ]
+}
+
